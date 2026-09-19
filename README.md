@@ -48,37 +48,44 @@ I'm a Computer Science graduate interested in building web applications and solv
 - Render
 - Vercel
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 ### 💼 MERN Job Portal
+Full-stack job portal built using MongoDB, Express.js, React.js and Node.js.
 
-A full-stack job portal application with separate workflows for Job Seekers and Recruiters.
-
-**Features:**
+**Key Features:**
 - JWT authentication
-- Job search and filtering
+- Job seeker and recruiter workflows
 - Company management
 - Job creation and management
 - Job applications
 - Applicant management
 - Application status updates
-- Resume upload
-- Profile photo upload
+- Resume and profile photo uploads
 - Cloudinary integration
-- MongoDB database
+- MongoDB Atlas
 
 🔗 [View Project](https://github.com/koteswarasampathi/job-portal)
 
-## 📊 Data Analytics Project
+---
 
-Built a sales data analytics project using:
+### 📊 Sales Data Analytics Project
+Data analytics project focused on analyzing sales data using SQL and Power BI.
 
-- SQL
+**Tools Used:**
 - MySQL
-- Power BI
+- SQL
 - Power Query
+- Power BI
 
-The project includes data cleaning, analysis and dashboard visualization.
+**Work Included:**
+- Data cleaning
+- SQL analysis
+- Data transformation
+- Dashboard creation
+- Sales and profit analysis
+
+
 
 ## 📚 Currently Learning
 

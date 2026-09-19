@@ -103,7 +103,7 @@ I'm continuously improving my technical skills through projects, coding practice
 ## 🤝 Connect With Me
 
 - GitHub: [@koteswarasampathi](https://github.com/koteswarasampathi)
-- LinkedIn: Add your LinkedIn profile here
+- LinkedIn: (https://www.linkedin.com/in/venkata-koteswara-rao-sampathi-15836a382/)
 
 ---
 
